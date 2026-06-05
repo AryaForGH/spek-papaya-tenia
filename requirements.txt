@@ -3,7 +3,8 @@ pandas
 numpy
 matplotlib
 scikit-learn
-sqlalchemy
-bcrypt
+tensorflow
 joblib
 openpyxl
+sqlalchemy
+bcrypt
